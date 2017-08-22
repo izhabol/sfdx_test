@@ -50,10 +50,10 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1502723713778,
-            "changeTime": 1502723713778,
+            "modifiedTime": 1502723555042,
+            "changeTime": 1502723555042,
             "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -931,14 +931,14 @@
     [
         "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 218,
             "modifiedTime": 1502723652013,
             "changeTime": 1502723652013,
-            "contentHash": "04a38a8d7316da02d8b48439771c0b18e07d517d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "04a38a8d7316da02d8b48439771c0b18e07d517d"
         }
     ],
     [
@@ -1061,14 +1061,14 @@
     [
         "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "size": 352,
+            "modifiedTime": 1502723218100,
+            "changeTime": 1502723218100,
+            "contentHash": "4f24db69c5ae1c0a8c69709582e99cf34977e2e5",
             "isMetadataFile": false,
-            "size": 420,
-            "modifiedTime": 1502723775708,
-            "changeTime": 1502723775708,
-            "contentHash": "6a597333f98001614b3241c6030982b9005a9d89"
+            "state": "u"
         }
     ],
     [
@@ -1100,14 +1100,14 @@
     [
         "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1502723229229,
+            "changeTime": 1502723229229,
+            "contentHash": "8af1b717f06f3629fa80de6ed12d1f718105b950",
             "isMetadataFile": false,
-            "size": 406,
-            "modifiedTime": 1502723788804,
-            "changeTime": 1502723788804,
-            "contentHash": "3c00cbfaec8dced83cda74daf23e53204dbf0354"
+            "state": "u"
         }
     ],
     [
@@ -1256,14 +1256,14 @@
     [
         "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1502723555048,
             "changeTime": 1502723597392,
-            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4"
         }
     ],
     [
@@ -1273,36 +1273,36 @@
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 339,
-            "modifiedTime": 1502723811222,
-            "changeTime": 1502723811222,
-            "contentHash": "3d09f280abf85cc22371d64f2b76b27b5ec68ae9"
+            "size": 270,
+            "modifiedTime": 1502723601478,
+            "changeTime": 1502723601478,
+            "contentHash": "9c16e2ce81fb9165d5479cb5266f8d461d6ccc7e"
         }
     ],
     [
         "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1502723555044,
             "changeTime": 1502723555044,
-            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403"
         }
     ],
     [
         "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1502723635919,
             "changeTime": 1502723635919,
-            "contentHash": "3fa5ccd072fda1594bbabd0012c53a119d594ed0",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "3fa5ccd072fda1594bbabd0012c53a119d594ed0"
         }
     ],
     [
@@ -1312,75 +1312,36 @@
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 853,
-            "modifiedTime": 1502723824877,
-            "changeTime": 1502723824877,
-            "contentHash": "37754e4a4371108692c47cd289d62ec87843e4f2"
+            "size": 388,
+            "modifiedTime": 1502723622302,
+            "changeTime": 1502723622302,
+            "contentHash": "00615ffdd46d83622d8c65b2be93d7fec62b36a4"
         }
     ],
     [
         "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1502723555046,
             "changeTime": 1502723555046,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1502723555048,
             "changeTime": 1502723555048,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1502723713780,
-            "changeTime": 1502723747278,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1502723749797,
-            "changeTime": 1502723749797,
-            "contentHash": "e38d5240066962d02879f016f7dee09b1b6aa1d2"
-        }
-    ],
-    [
-        "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\IhorZhabolenko\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1502723713781,
-            "changeTime": 1502723713781,
-            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
